@@ -82,7 +82,7 @@
        
     
 ## 8.  캡쳐이미지
-
+![Alt text](로그인.png)
 <img src="./로그인.png" width="400" height="250" title="" alt=""></img>
 <img src="현황.png" width="400" height="250" title="" alt=""></img>
 <img src="설정.png" width="400" height="250" title="" alt=""></img>
