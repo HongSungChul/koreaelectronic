@@ -82,10 +82,9 @@
        
     
 ## 8.  캡쳐이미지
-<img src="로그인.png"  width="200px">
-[무선와이파이선택](무선와이파이선택.png)
-[로그인](로그인.png)
-[현황](현황.png)
-[설정](설정.png)
-[언락처수정](언락처수정.png)
-
+<img src="무선와이파이선택.png"  width="400px">
+<img src="로그인.png"  width="400px">
+<img src="현황.png"  width="400px">
+<img src="설정"  width="400px">
+<img src="로그인.png"  width="400px">
+<img src="연락처수정.png"  width="400px">
