@@ -85,6 +85,6 @@
 <img src="무선와이파이선택.png"  width="400px">
 <img src="로그인.png"  width="400px">
 <img src="현황.png"  width="400px">
-<img src="설정"  width="400px">
+<img src="설정.png"  width="400px">
 <img src="로그인.png"  width="400px">
 <img src="연락처수정.png"  width="400px">
