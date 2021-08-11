@@ -16,5 +16,5 @@
     앱 등록시 사진과 소개글이 필요합니다.
     
 
-    [관리자 페이지](https://o2obox.kr:3110/admin )
-    [보바일 페이지](https://o2obox.kr:3110/web )  => 안전하지... 선택
+  ## [관리자 페이지](https://o2obox.kr:3110/admin )
+  ## [보바일 페이지](https://o2obox.kr:3110/web )  => 안전하지... 선택
